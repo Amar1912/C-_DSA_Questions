@@ -28,7 +28,7 @@ int main() {
     if (str1 == str2)
         cout << "Anagram";
     else
-        cout << "Not Anagram";
+        cout << "Not an Anagram";
     
     return 0;
 }
