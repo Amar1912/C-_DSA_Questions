@@ -1,3 +1,5 @@
+//first repeating character
+
 #include <iostream>
 using namespace std;
 
