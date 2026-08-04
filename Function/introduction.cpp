@@ -12,8 +12,6 @@ and call it whenever needed.
 Example:
 --------
 printHello();
-printHello();
-printHello();
 
 Advantages:
 -----------
