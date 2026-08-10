@@ -1,4 +1,4 @@
-//hollow Diamond
+//hollow Diamond pattern
 
 #include <iostream>
 using namespace std;
