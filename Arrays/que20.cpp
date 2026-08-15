@@ -1,4 +1,4 @@
-//2d matrix
+//2d matrix problem 
 
 #include <iostream>
 using namespace std;
