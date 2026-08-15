@@ -1,4 +1,4 @@
-//Find Minimum Element in an Array (TCS NQT)
+//Find Minimum Element in an Array (TCS NQT question)
 
 #include <iostream>
 using namespace std;
